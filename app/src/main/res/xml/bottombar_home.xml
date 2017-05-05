@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_white_24dp"
+        title="Home"
+        barColorWhenSelected="@color/menu1" />
+    <tab
+        id="@+id/tab_search"
+        icon="@drawable/ic_search_white_24dp"
+        title="Search"
+        barColorWhenSelected="@color/menu2" />
+    <tab
+        id="@+id/tab_top"
+        icon="@drawable/ic_stars_white_24dp"
+        title="Hot"
+        barColorWhenSelected="@color/menu4" />
+    <tab
+        id="@+id/tab_user"
+        icon="@drawable/ic_exit_to_app_white_24dp"
+        title="Account"
+        barColorWhenSelected="@color/menu5" />
+</tabs>
